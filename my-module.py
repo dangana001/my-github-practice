@@ -52,6 +52,6 @@ def reverse_number(num):
     # Convert the number to string, reverse it, and convert back to integer
     reversed_num = int(str(num)[::-1]) if num >= 0 else -int(str(-num)[::-1])
     return reversed_num
-
+#assignment 2
 
 
